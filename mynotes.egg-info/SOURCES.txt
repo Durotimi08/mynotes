@@ -1,0 +1,12 @@
+README.md
+setup.py
+mynotes/__init__.py
+mynotes/commands.py
+mynotes/db.py
+mynotes/utils.py
+mynotes.egg-info/PKG-INFO
+mynotes.egg-info/SOURCES.txt
+mynotes.egg-info/dependency_links.txt
+mynotes.egg-info/entry_points.txt
+mynotes.egg-info/requires.txt
+mynotes.egg-info/top_level.txt

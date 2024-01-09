@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: mynotes
+Version: 0.1
+Summary: A command-line notes application with online storage capacity.
+Home-page: https://github.com/Durotimi08/mynotes
+Author: Ibrahim Oluwadurotimi
+Author-email: ibrahimdurotimi1@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: bcrypt
+Requires-Dist: psycopg2
+
+A command-line notes application with with online storage capacity.
